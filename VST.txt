@@ -1,0 +1,8 @@
+helm
+https://tytel.org/helm/remind/win64/
+
+dexed
+https://asb2m10.github.io/dexed/
+
+surge
+https://surge-synthesizer.github.io/
